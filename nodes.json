@@ -1,5 +1,14 @@
 [
-   {
+    {
+        "identifier": "V3 Lavalink",
+        "host": "us.sanode.xyz",
+        "port": 25568,
+        "password": "discord.gg/W2GheK3F9m",
+        "secure": false,
+        "restVersion": "v3",
+        "authorId": "1313376026327384109"
+   },
+      {
 
 "identifier": "ARINO HQ",
 
