@@ -20,7 +20,7 @@ export default function Faq() {
         {
             name: "How To add my node to this list?",
             answer: "You can add your node to this list by creating a pull request on our github repository.",
-            url: "https://github.com/appujet/lavalink-list"
+            url: "https://github.com/jimmyontop15/lavalink-list"
         }
     ]
     return (
