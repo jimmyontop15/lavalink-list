@@ -39,7 +39,7 @@ export default function Home() {
           <div className="flex flex-wrap justify-center mt-8 space-x-2 items-center gap-2" data-aos="fade-up-left">
             <a
               className="flex max-w-fit items-center justify-center space-x-2 rounded-md bg-primary border border-gray-600 px-4 py-2 text-sm text-white shadow-md transition-all duration-300 sm:px-5 sm:py-2.5 hover:shadow-lg sm:hover:scale-[1.05] dark:bg-opacity-50 dark:backdrop-blur-sm dark:bg-white/10"
-              href="https://github.com/appujet/lavalink-list/blob/main/nodes.json"
+              href="https://github.com/jimmyontop15/lavalink-list/blob/main/nodes.json"
               target="_blank"
               rel="noopener noreferrer"
             >
